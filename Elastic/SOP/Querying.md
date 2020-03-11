@@ -11,5 +11,8 @@ General information: <br/>
 
 ## Steps: 
 
-1. Log into elasticsearch 
-![](Images/KCA_Logging_Architecture.png)
+1. Log into elasticsearch <br/>
+
+![Hello](/Images/KCA_Logging_Architecture.png)
+
+2. 
