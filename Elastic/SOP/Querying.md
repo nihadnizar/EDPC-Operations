@@ -12,4 +12,4 @@ General information: <br/>
 ## Steps: 
 
 1. Log into elasticsearch 
-![](Macintosh HD⁩/⁨Users/nhungtran/Desktop⁩)
+![](Images/KCA_Logging_Architecture.png)
