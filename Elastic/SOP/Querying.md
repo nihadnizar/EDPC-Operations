@@ -13,6 +13,6 @@ General information: <br/>
 
 1. Log into elasticsearch <br/>
 
-![Hello](/Images/KCA_Logging_Architecture.png)
+![Image](/Images/KCA_Logging_Architecture.png)
 
-2. 
+2. Create a table <br/>
